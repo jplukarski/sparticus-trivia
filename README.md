@@ -16,6 +16,17 @@ Customize your own trivia games for a fun party, review session or training empl
 <h2>Concept</h2>
 Spartacus Trivia is an app that allows users to create custom trivia quizzes and invite their friends to play on their own mobile devices.
 
+<h2>Screen Shots</h2>
+
+[Create A Game](./assets/createAGamePage.png)
+[Game Room](./assets/gameRoom.png)
+[Add a Question](./assets/addquestions.png)
+[Home](./assets/homepage.png)
+[My Games](./assets/myGames.png)
+[Join a Game](./assets/publicGames.png)
+[View All Questions](./assets/viewAllQuestions.png)
+
+
 <h2>Use Cases</h2>
 <ul>
     <li>Review game for Teachers</li>
