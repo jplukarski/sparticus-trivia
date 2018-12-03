@@ -24,7 +24,8 @@ Spartacus Trivia is an app that allows users to create custom trivia quizzes and
 </ul>
 
 <h2>Technologies Used</h2>
-* [Twitter Bootstrap](https://getbootstrap.com/) - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS.
+* [Twitter Bootstrap](https://getbootstrap.com/)
+Bootstrap is an open source toolkit for developing with HTML, CSS, and JS.
 
 <h2>Contributors</h2>
 
