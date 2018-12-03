@@ -6,4 +6,11 @@ Customize your own trivia games for a fun party, review session or training empl
 [MLH Local Hack Day Award Certificate](./assets/MLHCertificate.jpeg)
 
 <h2>Concept</h2>
-We saw a need for an app that 
+Spartacus Trivia is an app that allows users to create custom trivia quizzes and invite their friends to play on their own mobile devices.
+
+<h2>Use Cases</h2>
+<ul>
+    <li>Review game for Teachers</li>
+    <li>Fun Trivia Nights</li>
+    <li>Employer Training/Retraining</li>
+</ul>
