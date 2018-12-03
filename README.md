@@ -1,7 +1,15 @@
 <h1>Sparticus Trivia</h1>
-Customize your own trivia games for a fun party, review session or training employees.
+Customize your own trivia games for a fun party, review session or training employees. This app was made at
 
-**This app was a winning entry into the UI/UX and Mobile App categegories in [Major League Hacking's](https://mlh.io/) Local Hack Day 2018 Hack-A-Thon.
+[Major League Hacking's](https://mlh.io/) Local Hack Day 2018 Hack-A-Thon
+
+
+<h2>Awards</h2>
+    <ul>
+        <li>Best UI/UX</li>
+        <li>Best Mobile App</li>
+    </ul>
+
 
 [MLH Local Hack Day Award Certificate](./assets/MLHCertificate.jpeg)
 
