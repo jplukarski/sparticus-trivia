@@ -1,7 +1,7 @@
 <h1>Sparticus Trivia</h1>
 Customize your own trivia games for a fun party, review session or training employees. This app was made at
 
-[Major League Hacking's](https://mlh.io/) Local Hack Day 2018 Hack-A-Thon
+[Major League Hacking's](https://mlh.io/) Local Hack Day 2018 Hack-A-Thon.
 
 
 <h2>Awards</h2>
@@ -21,4 +21,11 @@ Spartacus Trivia is an app that allows users to create custom trivia quizzes and
     <li>Review game for Teachers</li>
     <li>Fun Trivia Nights</li>
     <li>Employer Training/Retraining</li>
+</ul>
+
+<h2>Contributors</h2>
+<ul>
+    <li>Francis Sebastian</li>
+    <li>[Modesto Echezarreta](https://github.com/mechezarreta3)</li>
+    <li>[Joe Plukarski](https://github.com/jplukarski)</li>
 </ul>
