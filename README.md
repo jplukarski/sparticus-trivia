@@ -24,8 +24,7 @@ Spartacus Trivia is an app that allows users to create custom trivia quizzes and
 </ul>
 
 <h2>Contributors</h2>
-<ul>
-    <li>Francis Sebastian</li>
-    <li>[Modesto Echezarreta](https://github.com/mechezarreta3)</li>
-    <li>[Joe Plukarski](https://github.com/jplukarski)</li>
-</ul>
+
+* Francis Sebastian
+* [Modesto Echezarreta](https://github.com/mechezarreta3)
+* [Joe Plukarski](https://github.com/jplukarski)
